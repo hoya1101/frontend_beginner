@@ -1,0 +1,78 @@
+JavaScript的历史
+----
+* 关键词：[网景公司(Netscape)](https://zh.wikipedia.org/wiki/%E7%B6%B2%E6%99%AF), Navigator浏览器, Sun, Java, Brendan Eich
+
+## 网景公司: 
+
+ ![Netscape](https://upload.wikimedia.org/wikipedia/zh/thumb/c/c1/Netscape_LOGO.svg/250px-Netscape_LOGO.svg.png)
+
+ * 网景是第一家尝试利用新生万维网的公司, 该公司的第一个产品是网页浏览器.
+ * 马克·安德森和吉姆·克拉克最初为任天堂的任天堂64创建了一个20页的在线游戏网络概念，但从来没有达成协议.
+ * 网景的成功使马克·安德森于1996年成为时代杂志的封面人物
+
+![马克·安德森 时代杂志](http://img.timeinc.net/time/magazine/archive/covers/1996/1101960219_400.jpg)
+ * 微软发布Internet Explorer 1.0, 当时只是Windows 95的Microsoft Plus!附购品. 捆绑于Windows操作系统，用户可免费使用（网景导航者当时是收费的）
+ * 微软更以自己公司的其他部门的收入，调配于开发Internet Explorer的资金中。这段时期，现在被称之为“浏览器大战”。当时，网景和微软为了超越彼此，在它们的浏览器增加许多功能
+
+![浏览器大战](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSd63IwPoP_hUV6Y775x_Iw1GT9-pbiaAEB5jZa1XtZJ4c6egKOzA)
+ * 网景过度偏向“增加功能”，忽视运作稳定
+ * 网景发明了HTTP Cookie技术
+
+![HTTP Cookie](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfRn0wAA22GVwrQFSn1EwMO9gGCJJXzcwsdbGafI5boy1HpP7x)
+ * 网景发明了现在广为使用的JavaScript语言
+![JS](https://udemy-images.udemy.com/course/750x422/672274_cd11_2.jpg)
+ * 网景制订并在产品中支持传输层安全协议（SSL）
+
+![SSL](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6G6oIG91xJy8o9mAAFOrmvs3b2DY1a3hqFe5_eIHqq7M5gd1YWg)
+ * 它亦是“推送技术”（Push technology）先驱
+
+![Push technology](http://www.technologystudent.com/prddes1/techpush1.png)
+
+ * 2012年4月9日，微软以10亿5千6百万美元购买800项美国在线的专利或专利授权，专家们认为网景的SSL、Cookie等专利可能是微软愿意出高价的理由之一 :moneybag: 
+
+![m](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJ1i-UK-WrtNvNNeG19DuLbnV1GLiONWsMPhSlQlOXMcnnZAA5tQ)
+
+* 网景推出产品的节奏比过去的软件公司快许多，被称为Internet Time，被许多其他网络公司仿效.
+* David Winton于2000年拍摄了一部纪录片[《奔驰的代码》](http://v.youku.com/v_show/id_XNjA2NDI2MTUy.html) [（Code Rush）](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y#t=0h0m0s)，描述网景工程师推出Mozilla开放源代码的故事,该纪录片描绘了Netscape的工程师们，放弃正常生活与家庭，试图挽救公司免于倒闭的命运。
+* 网上名人阮一峰在他的博客上介绍说：“如果你对软件业感兴趣，希望了解程序员的生活，以及Mozilla项目的起源和创造它的人们，那么千万不要错过这部纪录片。我保证这是一部过目难忘的作品。
+
+## Navigator浏览器
+ ![Navigator](http://image.beekka.com/blog/201106/bg2011062401.jpg)
+
+* Mosaic Netscape 0.9，发行于1994年10月13日, 后来改名为Netscape Navigator（中译为“网景导航者”）
+* 网景的浏览器市场占有率达到70%[14]。网景的成功使马克·安德森于1996年成为时代杂志的封面人物.
+
+## Sun
+* 另外一件大事：1995年Sun公司将Oak语言改名为Java，正式向市场推出
+* Sun公司大肆宣传，许诺这种语言可以"一次编写，到处运行"（Write Once, Run Anywhere），它看上去很可能成为未来的主宰
+* 网景公司的整个管理层，都是Java语言的信徒，Sun公司完全介入网页脚本语言的决策。因此，Javascript后来就是网景和Sun两家公司一起携手推向市场的，这种语言被命名为"Java+script"并不是偶然的
+
+![Sun Java](http://image.beekka.com/blog/201106/bg2011062402.png)
+
+## Brendan Eich
+
+![Brendan Eich](http://image.beekka.com/blog/201106/bg2011060503.jpg)
+
+* 主要方向和兴趣是函数式编程，网景公司招聘他的目的，是研究将Scheme语言作为网页脚本语言的可能性。Brendan Eich本人也是这样想的，以为进入新公司后，会主要与Scheme语言打交
+* 仅仅一个月之后，1995年5月，网景公司做出决策，未来的网页脚本语言必须"看上去与Java足够相似"，但是比Java简单，使得非专业的网页作者也能很快上手。这个决策实际上将Perl、Python、Tcl、Scheme等非面向对象编程的语言都排除在外了。
+* Brendan Eich被指定为这种"简化版Java语言"的设计师。
+* 他对Java一点兴趣也没有。为了应付公司安排的任务，他只用10天时间就把Javascript设计出来了
+![](http://discourse.opentechschool.org/uploads/default/400/044fa7f21cf5b975.jpg)
+
+* 如果不是公司的决策，Brendan Eich绝不可能把Java作为Javascript设计的原型。作为设计者，他一点也不喜欢自己的这个作品：
+
+> 
+"与其说我爱Javascript，不如说我恨它。它是C语言和Self语言一夜情的产物。十八世纪英国文学家约翰逊博士说得好：'它的优秀之处并非原创，它的原创之处并不优秀。'（the part that is good is not original, and the part that is original is not good.）"
+
+## Today
+---
+
+```javascript
+任何能用javascript实现的软件及系统，最终都会拿来用javascript实现
+```
+
+Links
+---
+* [Javascript诞生记](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html)
+* [Javascript继承机制的设计思想](http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html)
+* [Brendaneich](https://brendaneich.com/)
