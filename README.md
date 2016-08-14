@@ -1,0 +1,3 @@
+# frontend_beginner
+
+任何能用javascript实现的软件及系统，最终都会拿来用javascript实现
